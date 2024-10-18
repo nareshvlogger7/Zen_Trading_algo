@@ -1,0 +1,21 @@
+{
+    "name": "ZenTrading",
+    "version": "1.0.0",
+    "description": "A trading application with various strategies.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "axios": "^1.4.0",
+      "body-parser": "^1.20.2",
+      "moment": "^2.29.4"
+    },
+    "devDependencies": {
+      
+    },
+    "author": "Naresh",
+    "license": "ISC"
+  }
+  
